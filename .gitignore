@@ -3,3 +3,6 @@
 
 # Ignore directories
 /data/
+
+# Ignore word doc
+*.docx
