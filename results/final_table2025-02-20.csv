@@ -1,0 +1,127 @@
+,Season and Name,Nominal damage (Billions USD),Areas affected,ID,Date,Event,Status,Latitude,Longitude,Maximum Wind,Minimum Pressure
+0,2005 Katrina,$125.0,Louisiana Mississippi The Bahamas United States Gulf Coast South Florida Northeast Eastern Canada,AL122005,20050825,L, HU,26.0N,80.1W,70,984
+1,2005 Katrina,$125.0,Louisiana Mississippi The Bahamas United States Gulf Coast South Florida Northeast Eastern Canada,AL122005,20050829,L, HU,29.3N,89.6W,110,920
+2,2005 Katrina,$125.0,Louisiana Mississippi The Bahamas United States Gulf Coast South Florida Northeast Eastern Canada,AL122005,20050829,L, HU,30.2N,89.6W,105,928
+3,2012 Sandy,$68.7,The Caribbean United States East Coast Eastern Canada,AL182012,20121024,L, HU,17.9N,76.6W,75,971
+4,2012 Sandy,$68.7,The Caribbean United States East Coast Eastern Canada,AL182012,20121025,L, HU,20.0N,76.0W,100,954
+5,2012 Sandy,$68.7,The Caribbean United States East Coast Eastern Canada,AL182012,20121029,L, EX,39.4N,74.4W,70,945
+6,2008 Ike,$38.0,Greater Antilles Texas Louisiana Midwestern United States Eastern Canada Iceland,AL092008,20080907,L, HU,21.0N,73.2W,110,947
+7,2008 Ike,$38.0,Greater Antilles Texas Louisiana Midwestern United States Eastern Canada Iceland,AL092008,20080908,L, HU,21.1N,75.7W,115,945
+8,2008 Ike,$38.0,Greater Antilles Texas Louisiana Midwestern United States Eastern Canada Iceland,AL092008,20080909,L, HU,22.6N,82.9W,70,965
+9,2008 Ike,$38.0,Greater Antilles Texas Louisiana Midwestern United States Eastern Canada Iceland,AL092008,20080913,L, HU,29.3N,94.7W,95,950
+10,1992 Andrew,$27.3,The Bahamas Florida Louisiana,AL041992,19920823,L, HU,25.4N,76.6W,140,923
+11,1992 Andrew,$27.3,The Bahamas Florida Louisiana,AL041992,19920824,L, HU,25.4N,77.8W,130,931
+12,1992 Andrew,$27.3,The Bahamas Florida Louisiana,AL041992,19920824,L, HU,25.5N,80.2W,145,926
+13,1992 Andrew,$27.3,The Bahamas Florida Louisiana,AL041992,19920824,L, HU,25.5N,80.3W,145,922
+14,1992 Andrew,$27.3,The Bahamas Florida Louisiana,AL041992,19920826,L, HU,29.6N,91.5W,100,956
+15,2005 Wilma,$26.5,Greater Antilles Central America Florida,AL252005,20051021,L, HU,20.6N,86.8W,130,927
+16,2005 Wilma,$26.5,Greater Antilles Central America Florida,AL252005,20051022,L, HU,20.8N,86.9W,115,933
+17,2005 Wilma,$26.5,Greater Antilles Central America Florida,AL252005,20051024,L, HU,25.9N,81.7W,105,950
+18,2004 Ivan,$26.1,The Caribbean Venezuela United States Gulf Coast,AL092004,20040916,L, HU,30.2N,87.9W,105,946
+19,2004 Ivan,$26.1,The Caribbean Venezuela United States Gulf Coast,AL092004,20040924,L, TD,29.8N,93.6W,30,1004
+20,2005 Rita,$18.5,Cuba Texas Louisiana,AL182005,20050924,L, HU,29.7N,93.7W,100,937
+21,2004 Charley,$16.9,Jamaica Cayman Islands Cuba Florida The Carolinas,AL032004,20040813,L, HU,22.7N,82.6W,105,966
+22,2004 Charley,$16.9,Jamaica Cayman Islands Cuba Florida The Carolinas,AL032004,20040813,L, HU,26.6N,82.2W,130,941
+23,2004 Charley,$16.9,Jamaica Cayman Islands Cuba Florida The Carolinas,AL032004,20040813,L, HU,26.9N,82.1W,125,942
+24,2004 Charley,$16.9,Jamaica Cayman Islands Cuba Florida The Carolinas,AL032004,20040814,L, HU,33.0N,79.4W,70,992
+25,2004 Charley,$16.9,Jamaica Cayman Islands Cuba Florida The Carolinas,AL032004,20040814,L, HU,33.8N,78.7W,65,997
+26,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110821,L, TS,17.8N,64.6W,60,993
+27,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110822,L, TS,18.1N,65.8W,60,990
+28,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110824,L, HU,22.4N,74.0W,100,955
+29,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110825,L, HU,23.5N,75.1W,95,952
+30,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110825,L, HU,24.7N,76.2W,90,950
+31,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110825,L, HU,26.5N,77.2W,90,950
+32,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110827,L, HU,34.7N,76.6W,75,952
+33,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110828,L, TS,39.4N,74.4W,60,959
+34,2011 Irene,$14.2,The Caribbean United States East Coast Eastern Canada,AL092011,20110828,L, TS,40.6N,74.0W,55,965
+35,1989 Hugo,$11.0,The Caribbean United States East Coast,AL111989,19890917,L, HU,16.3N,61.3W,120,941
+36,1989 Hugo,$11.0,The Caribbean United States East Coast,AL111989,19890918,L, HU,17.7N,64.8W,120,940
+37,1989 Hugo,$11.0,The Caribbean United States East Coast,AL111989,19890918,L, HU,18.2N,65.5W,110,945
+38,1989 Hugo,$11.0,The Caribbean United States East Coast,AL111989,19890918,L, HU,18.3N,65.6W,110,946
+39,1989 Hugo,$11.0,The Caribbean United States East Coast,AL111989,19890922,L, HU,32.8N,79.8W,120,934
+40,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040902,L, HU,24.0N,74.5W,110,948
+41,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040903,L, HU,24.6N,75.6W,100,954
+42,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040903,L, HU,25.1N,76.1W,95,956
+43,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040904,L, HU,26.6N,78.2W,90,961
+44,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040905,L, HU,27.2N,80.2W,90,960
+45,2004 Frances,$10.1,The Caribbean Eastern United States Ontario,AL062004,20040906,L, TS,30.1N,84.0W,50,982
+46,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980921,L, HU,17.0N,61.7W,100,966
+47,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980921,L, HU,17.2N,62.6W,100,966
+48,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980921,L, HU,18.1N,65.8W,90,968
+49,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980922,L, HU,18.2N,68.7W,105,962
+50,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980923,L, HU,20.1N,74.5W,65,993
+51,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980925,L, HU,24.5N,81.8W,90,981
+52,1998 Georges,$9.3,The Caribbean United States Gulf Coast,AL071998,19980928,L, HU,30.4N,88.9W,90,964
+53,2001 Allison,$9.0,Texas Louisiana Southern United States,AL012001,20010605,L, TS,28.9N,95.3W,45,1003
+54,2001 Allison,$9.0,Texas Louisiana Southern United States,AL012001,20010611,L, SD,29.6N,91.6W,30,1004
+55,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080826,L, HU,18.1N,72.8W,70,992
+56,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080828,L, TS,18.0N,76.2W,60,984
+57,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080829,L, TS,17.9N,77.2W,60,987
+58,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080830,L, HU,21.6N,82.5W,125,943
+59,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080830,L, HU,22.4N,83.1W,135,941
+60,2008 Gustav,$8.3,Hispaniola Jamaica Cuba Louisiana,AL072008,20080901,L, HU,29.2N,90.7W,90,954
+61,2004 Jeanne,$7.9,The Caribbean Eastern United States,AL112004,20040914,L, TD,16.2N,61.3W,30,1009
+62,2004 Jeanne,$7.9,The Caribbean Eastern United States,AL112004,20040915,L, TS,18.0N,66.0W,60,991
+63,2004 Jeanne,$7.9,The Caribbean Eastern United States,AL112004,20040916,L, HU,18.6N,68.3W,70,985
+64,2004 Jeanne,$7.9,The Caribbean Eastern United States,AL112004,20040925,L, HU,26.7N,77.3W,100,956
+65,2004 Jeanne,$7.9,The Caribbean Eastern United States,AL112004,20040926,L, HU,27.2N,80.2W,105,950
+66,1999 Floyd,$6.5,The Bahamas Eastern United States Atlantic Canada,AL081999,19990914,L, HU,25.4N,76.3W,105,930
+67,1999 Floyd,$6.5,The Bahamas Eastern United States Atlantic Canada,AL081999,19990914,L, HU,26.3N,77.1W,110,932
+68,1999 Floyd,$6.5,The Bahamas Eastern United States Atlantic Canada,AL081999,19990916,L, HU,33.8N,78.0W,90,956
+69,1998 Mitch,$6.1,Central America Yucatán Peninsula South Florida,AL131998,19981029,L, HU,15.9N,85.7W,70,987
+70,1998 Mitch,$6.1,Central America Yucatán Peninsula South Florida,AL131998,19981104,L, TS,20.1N,90.5W,35,998
+71,1998 Mitch,$6.1,Central America Yucatán Peninsula South Florida,AL131998,19981105,L, TS,26.2N,81.9W,50,989
+72,2003 Isabel,$5.5,Greater Antilles The Bahamas Eastern United States Ontario,AL132003,20030918,L, HU,34.9N,76.2W,90,957
+73,1996 Fran,$5.0,Eastern United States Ontario,AL061996,19960906,L, HU,33.9N,78.0W,100,954
+74,1995 Opal,$4.7,Guatemala Yucatán Peninsula Eastern United States,AL171995,19951004,L, HU,30.3N,87.1W,100,942
+75,2005 Dennis,$4.0,Greater Antilles Southeastern United States,AL042005,20050704,L, TD,12.1N,61.6W,30,1010
+76,2005 Dennis,$4.0,Greater Antilles Southeastern United States,AL042005,20050708,L, HU,19.9N,77.6W,120,956
+77,2005 Dennis,$4.0,Greater Antilles Southeastern United States,AL042005,20050708,L, HU,22.1N,80.7W,120,941
+78,2005 Dennis,$4.0,Greater Antilles Southeastern United States,AL042005,20050710,L, HU,30.4N,87.1W,105,946
+79,2005 Stan,$3.9,Mexico Central America,AL202005,20051002,L, TS,19.6N,87.5W,35,1003
+80,2005 Stan,$3.9,Mexico Central America,AL202005,20051004,L, HU,18.6N,94.9W,70,977
+81,2010 Karl,$3.9,Mexico Central America,AL132010,20100915,L, TS,18.5N,87.8W,55,991
+82,2010 Karl,$3.9,Mexico Central America,AL132010,20100917,L, HU,19.3N,96.2W,100,976
+83,1995 Luis,$3.3,Leeward Islands Puerto Rico Bermuda,AL131995,19950905,L, HU,17.5N,61.7W,115,945
+84,2012 Isaac,$3.1,The Caribbean Eastern United States,AL092012,20120825,L, TS,18.3N,72.7W,55,991
+85,2012 Isaac,$3.1,The Caribbean Eastern United States,AL092012,20120825,L, TS,20.1N,74.5W,50,997
+86,2012 Isaac,$3.1,The Caribbean Eastern United States,AL092012,20120829,L, HU,28.9N,89.4W,70,967
+87,2012 Isaac,$3.1,The Caribbean Eastern United States,AL092012,20120829,L, HU,29.2N,90.2W,70,966
+88,1983 Alicia,$3.0,East Texas Louisiana,AL031983,19830818,L, HU,29.1N,95.1W,100,962
+89,1988 Gilbert,$3.0,Venezuela Central America Hispaniola Mexico,AL081988,19880912,L, HU,17.8N,76.8W,115,960
+90,1988 Gilbert,$3.0,Venezuela Central America Hispaniola Mexico,AL081988,19880914,L, HU,20.7N,87.0W,140,900
+91,1988 Gilbert,$3.0,Venezuela Central America Hispaniola Mexico,AL081988,19880916,L, HU,24.2N,97.8W,110,955
+92,2011 Lee,$2.8,Louisiana Mississippi,AL132011,20110904,L, SS,29.6N,92.1W,40,986
+93,1995 Marilyn,$2.5,The Caribbean Bermuda,AL151995,19950914,L, HU,15.5N,61.3W,70,984
+94,2001 Michelle,$2.4,Central America Jamaica Cuba The Bahamas,AL152001,20011104,L, HU,21.5N,81.8W,120,949
+95,2001 Michelle,$2.4,Central America Jamaica Cuba The Bahamas,AL152001,20011104,L, HU,22.1N,81.2W,115,950
+96,2001 Michelle,$2.4,Central America Jamaica Cuba The Bahamas,AL152001,20011105,L, HU,24.3N,78.0W,80,974
+97,2001 Michelle,$2.4,Central America Jamaica Cuba The Bahamas,AL152001,20011105,L, HU,25.4N,76.4W,75,980
+98,1988 Joan,$2.0,Lesser Antilles Colombia Venezuela Central America,AL111988,19881015,L, TS,12.1N,61.8W,45,1003
+99,1988 Joan,$2.0,Lesser Antilles Colombia Venezuela Central America,AL111988,19881017,L, TS,12.0N,71.2W,55,997
+100,1988 Joan,$2.0,Lesser Antilles Colombia Venezuela Central America,AL111988,19881022,L, HU,11.9N,83.7W,125,932
+101,2007 Dean,$1.7,The Caribbean Central America,AL042007,20070821,L, HU,18.7N,87.7W,150,905
+102,2007 Dean,$1.7,The Caribbean Central America,AL042007,20070822,L, HU,20.5N,97.0W,85,974
+103,2008 Dolly,$1.6,Cayman Islands Mexico Southwestern United States,AL042008,20080721,L, TS,20.8N,87.0W,45,1007
+104,2008 Dolly,$1.6,Cayman Islands Mexico Southwestern United States,AL042008,20080723,L, HU,26.4N,97.2W,75,967
+105,2008 Dolly,$1.6,Cayman Islands Mexico Southwestern United States,AL042008,20080723,L, HU,26.4N,97.4W,70,967
+106,2010 Alex,$1.5,Central America Greater Antilles Texas,AL012010,20100627,L, TS,17.5N,88.2W,55,995
+107,2010 Alex,$1.5,Central America Greater Antilles Texas,AL012010,20100701,L, HU,24.2N,97.7W,95,946
+108,1985 Juan,$1.5,United States Gulf Coast,AL121985,19851029,L, HU,29.5N,91.4W,65,974
+109,1991 Bob,$1.5,United States East Coast Canada,AL031991,19910819,L, HU,41.2N,71.6W,90,962
+110,1991 Bob,$1.5,United States East Coast Canada,AL031991,19910819,L, HU,41.4N,71.4W,85,964
+111,1991 Bob,$1.5,United States East Coast Canada,AL031991,19910820,L, TS,44.1N,69.1W,60,981
+112,1995 Roxanne,$1.5,Mexico,AL191995,19951011,L, HU,20.0N,87.6W,100,958
+113,2013 Ingrid,$1.5,Mexico,AL102013,20130916,L, TS,23.7N,97.7W,55,991
+114,1969 Camille,$1.4,Mississippi Louisiana Alabama Virginia Cuba,AL091969,19690815,L, HU,21.9N,84.3W,95,-999
+115,1969 Camille,$1.4,Mississippi Louisiana Alabama Virginia Cuba,AL091969,19690818,L, HU,30.3N,89.4W,150,900
+116,1985 Elena,$1.3,Cuba United States Gulf Coast,AL051985,19850902,L, HU,30.4N,89.2W,100,959
+117,2002 Isidore,$1.3,Cuba Yucatán Peninsula Louisiana,AL102002,20020920,L, HU,22.0N,84.1W,75,964
+118,2002 Isidore,$1.3,Cuba Yucatán Peninsula Louisiana,AL102002,20020922,L, HU,21.3N,89.3W,110,936
+119,2002 Isidore,$1.3,Cuba Yucatán Peninsula Louisiana,AL102002,20020926,L, TS,29.1N,90.3W,55,984
+120,2002 Lili,$1.2,Lesser Antilles Greater Antilles Gulf Coast of the United States,AL132002,20020930,L, HU,19.7N,79.8W,65,986
+121,2002 Lili,$1.2,Lesser Antilles Greater Antilles Gulf Coast of the United States,AL132002,20021001,L, HU,21.3N,83.0W,90,971
+122,2002 Lili,$1.2,Lesser Antilles Greater Antilles Gulf Coast of the United States,AL132002,20021001,L, HU,22.1N,84.0W,90,971
+123,2002 Lili,$1.2,Lesser Antilles Greater Antilles Gulf Coast of the United States,AL132002,20021003,L, HU,29.5N,92.2W,80,963
+124,1994 Alberto,$1.0,Southeastern United States,AL011994,19940703,L, TS,30.4N,86.5W,55,993
+125,1998 Bonnie,$1.0,Lesser Antilles East Coast of the United States,AL021998,19980827,L, HU,34.4N,77.7W,95,964
