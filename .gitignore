@@ -2,4 +2,10 @@
 .ipynb_checkpoints/
 
 # Ignore directories
-/data/
+/doc/
+
+# Ignore word doc
+*.docx
+
+# Ignore the superhero jupyter notebook
+Assignment5b.ipynb
