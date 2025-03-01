@@ -3,6 +3,7 @@
 
 # Ignore directories
 /doc/
+/material_from_A3/
 
 # Ignore word doc and img
 *.png
@@ -10,6 +11,4 @@
 
 # Ignore the superhero jupyter notebook
 Assignment5b.ipynb
-Assignment3.html
-Assignment3.md
-Assignment3.ipynb
+
